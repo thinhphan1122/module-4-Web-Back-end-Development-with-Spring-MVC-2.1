@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head th:replace="/layout :: head">
+    <title>ListSong</title>
+</head>
+<body>
+<h3>Songs</h3>
+<p>
+    <a th:href="@{/songs/add}">
+        Add new song
+    </a>
+</p>
+
+<div class="notify">
+    <div th:if="${success}">
+        <span th:text="${success}"></span>
+    </div>
+</div>
+
+<table id = "songs">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Artist</th>
+        <th>Genre</th>
+        <th>SongUrl</th>
+        <th>Edit</th>
+        <th>Delete</th>
+        <th>View</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="row,rowStat : ${songs}">
+        <td th:text="${row.getName()}"></td>
+        <td th:text="${row.getArtist()}"></td>
+        <td th:text="${row.getGenre()}"></td>
+        <td th:text="${row.getSongUrl()}"></td>
+        <td><a th:href="@{/SONGs/{id}/edit(id=${row.getId()})}">edit</a></td>
+        <td><a th:href="@{/SONGs/{id}/delete(id=${row.getId()})}">delete</a></td>
+        <td><a th:href="@{/SONGs/{id}/view(id=${row.getId()})}">view</a></td>
+    </tr>
+    </tbody>
+</table>
+<footer th:replace="/layout :: footer"></footer>
+</body>
+</html>
