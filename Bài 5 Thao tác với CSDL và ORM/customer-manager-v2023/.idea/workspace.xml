@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2acb4edc-779d-444f-b521-19950cc7a26a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Bài 2 Spring Controller/spring-upload-file/src/main/java/com/codegym/model/ProductForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/java/com/codegym/musicapp/configuration/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/java/com/codegym/musicapp/configuration/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/configuration/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/configuration/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/controller/SongController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/model/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/service/HibernateSongService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/service/ISongService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bài 2 Spring Controller/customer-managaement-thymeleaf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bài 2 Spring Controller/customer-managaement-thymeleaf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-manager-jpa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-manager-jpa/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bài 7 Spring Data Repository/customer-province-management/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bài 7 Spring Data Repository/customer-province-management/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,20 +64,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.80">
     <configuration name="customer-manager-v2023 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -264,6 +248,8 @@
       <updated>1698723363847</updated>
       <workItem from="1698723364879" duration="5420000" />
       <workItem from="1698736169104" duration="447000" />
+      <workItem from="1698994439296" duration="11000" />
+      <workItem from="1698995484000" duration="12000" />
     </task>
     <servers />
   </component>

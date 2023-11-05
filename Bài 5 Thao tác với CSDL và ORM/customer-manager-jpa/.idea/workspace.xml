@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="889afd25-ff3e-4542-abe9-3d0df54973f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Bài 2 Spring Controller/spring-upload-file/src/main/java/com/codegym/model/ProductForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/java/com/codegym/musicapp/configuration/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/java/com/codegym/musicapp/configuration/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-app/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/configuration/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/configuration/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/controller/SongController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/model/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/service/HibernateSongService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/java/com/codegym/musicapp/service/ISongService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../music-application/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Bài 2 Spring Controller/customer-managaement-thymeleaf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bài 2 Spring Controller/customer-managaement-thymeleaf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-manager-v2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-manager-v2023/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bài 7 Spring Data Repository/customer-province-management/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bài 7 Spring Data Repository/customer-province-management/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,29 +28,29 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2XWDqEAYzaxQntj7bjXRDzaiBZi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "android.gradle.sync.needed": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Something/OneDrive/Desktop/Documents/CodeGym/GitHub/module-4/Bài 5 Thao tác với CSDL và ORM/customer-manager-jpa/src/main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Something/OneDrive/Desktop/Documents/CodeGym/GitHub/module-4/Bài 5 Thao tác với CSDL và ORM/customer-manager-jpa/src/main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Something\OneDrive\Desktop\Documents\CodeGym\GitHub\module-4\Bài 5 Thao tác với CSDL và ORM\customer-manager-jpa\src\main" />
@@ -128,6 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698736144414</updated>
       <workItem from="1698736145460" duration="621000" />
+      <workItem from="1698994450983" duration="6000" />
     </task>
     <servers />
   </component>
